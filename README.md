@@ -13,6 +13,7 @@ CTP-EOS Linux is a custom-built Arch Linux-based distribution designed to serve 
 - Secure computing with future integration of **CTP Energy Isolation Framework (CEIF)**.
 - User-friendly desktop experience with **XFCE**.
 - Full live environment, allowing you to test and install from a fully functional system.
+- CTP-EOS is the 'Disclosure-distro' or the 'disclosure-linux' about the UFO truth/UAP truth or the truth about UFOs/UAPs or 'CTP craft' (by name)
 
 ---
 
