@@ -57,8 +57,8 @@ Ensure your build environment has:
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/YOUR-ORG/ctp-eos-iso-template.git
-cd ctp-eos-iso-template
+git clone https://github.com/ctp-eos/ctp-eos-iso-template-preinstall-scripts
+cd ctp-eos-iso-template-preinstall
 ```
 
 ### 3. Build the ISO
@@ -103,8 +103,8 @@ Future versions of **CTP-EOS Linux** will include:
 
 ## 🌐 Official Project Links
 
-- **Website:** Coming soon (CTP Energy Science Foundation)  
-- **Repository:** https://github.com/YOUR-ORG/ctp-eos-iso-template  
+- **Website:** https://ctp-eos.org (CTP Energy Science Foundation project)  
+- **Repository:** https://github.com/ctp-eos/ctp-eos-iso-template-preinstall 
 - **Issue Tracker:** Use GitHub Issues for feedback, bugs, and feature requests.
 
 ---
@@ -117,12 +117,12 @@ Contributions are welcome! Fork the repository, submit pull requests, or suggest
 
 ## 📜 License
 
-© 2025 CTP Energy Science Foundation.  
+© 2025 CTP Energy, LLC.  
 Released under the MIT License (or your preferred license).
 
 ---
 
 ## 🛸 About CTP Energy Science
 
-**CTP Energy Science** is a revolutionary scientific framework exploring **hyper-spatial energy systems, quantum material interactions, and extraterrestrial technology integration**. Learn more at [CTP Energy Science Foundation Website (Coming Soon)].
+**CTP Energy Science** is a revolutionary scientific framework exploring **hyper-spatial energy systems, quantum material interactions, and extraterrestrial technology integration**. Learn more at [www.ctp-energy.com].
 
