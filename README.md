@@ -57,7 +57,7 @@ Ensure your build environment has:
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/ctp-eos/ctp-eos-iso-template-preinstall-scripts
+git clone https://github.com/ctp-eos/ctp-eos-iso-template-preinstall
 cd ctp-eos-iso-template-preinstall
 ```
 
