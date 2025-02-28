@@ -119,7 +119,7 @@ Contributions are welcome! Fork the repository, submit pull requests, or suggest
 ## 📜 License
 
 © 2025 CTP Energy, LLC.  
-Released under the MIT License (or your preferred license).
+Released under the MIT License.
 
 ---
 
