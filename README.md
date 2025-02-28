@@ -125,5 +125,5 @@ Released under the MIT License.
 
 ## 🛸 About CTP Energy Science
 
-**CTP Energy Science** is a revolutionary scientific framework exploring **hyper-spatial energy systems, quantum material interactions, and extraterrestrial technology integration**. Learn more at [www.ctp-energy.com].
+**CTP Energy Science** is a revolutionary scientific framework exploring **hyper-spatial energy systems, postquantum (non)material interactions, and extraterrestrial technology integration**. Learn more at [www.ctp-energy.com].
 
